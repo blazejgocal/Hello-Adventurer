@@ -121,4 +121,3 @@ Console.WriteLine($"| Liczba zebranego złota: {zl1}");
 Console.WriteLine($"| Średnia liczba zdobytych PD dziennie: {srPD}");
 Console.WriteLine($"| Średnia liczba zebranego złota dziennie: {srzl}");
 Console.WriteLine($"+------------------------+");
-// github test
