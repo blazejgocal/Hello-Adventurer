@@ -1,0 +1,11 @@
+//int punktyDoświadczenia = 100;
+//int zloto = 200;
+//int numerTreningu = 1;
+//punktyDoświadczenia += 25;
+//punktyDoświadczenia *= 2;
+//zloto -= 8;
+//zloto += 15;
+//numerTreningu++;
+//Console.WriteLine(punktyDoświadczenia);
+//Console.WriteLine(zloto);
+//Console.WriteLine(numerTreningu);
