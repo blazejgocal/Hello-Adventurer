@@ -1,0 +1,13 @@
+﻿string imie = "Błażej";
+char symbol = '#';
+int poziom = 5;
+int zloto = 100;
+double waga = 85.5;
+bool czyMaMape = false;
+Console.WriteLine("===  EKWIPUNEK  ===");
+Console.WriteLine($"Imię (string): " + imie);
+Console.WriteLine($"Symbol (char): " + symbol);
+Console.WriteLine($"Poziom (int): " + poziom);
+Console.WriteLine($"Złoto (int): " + zloto);
+Console.WriteLine($"Waga (double): " + waga + " kg");
+Console.WriteLine($"Ma mapę (bool): " + czyMaMape);

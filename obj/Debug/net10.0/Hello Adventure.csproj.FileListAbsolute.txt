@@ -12,3 +12,18 @@ C:\Users\s37557\Hello Adventure\obj\Debug\net10.0\refint\Hello Adventure.dll
 C:\Users\s37557\Hello Adventure\obj\Debug\net10.0\Hello Adventure.pdb
 C:\Users\s37557\Hello Adventure\obj\Debug\net10.0\Hello Adventure.genruntimeconfig.cache
 C:\Users\s37557\Hello Adventure\obj\Debug\net10.0\ref\Hello Adventure.dll
+C:\Users\blaze\Hello-Adventurer\obj\Debug\net10.0\Hello Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blaze\Hello-Adventurer\obj\Debug\net10.0\Hello Adventure.AssemblyInfoInputs.cache
+C:\Users\blaze\Hello-Adventurer\obj\Debug\net10.0\Hello Adventure.AssemblyInfo.cs
+C:\Users\blaze\Hello-Adventurer\obj\Debug\net10.0\Hello Adventure.csproj.CoreCompileInputs.cache
+C:\Users\blaze\Hello-Adventurer\obj\Debug\net10.0\Hello Adventure.sourcelink.json
+C:\Users\blaze\Hello-Adventurer\obj\Debug\net10.0\Hello Adventure.dll
+C:\Users\blaze\Hello-Adventurer\obj\Debug\net10.0\refint\Hello Adventure.dll
+C:\Users\blaze\Hello-Adventurer\obj\Debug\net10.0\Hello Adventure.pdb
+C:\Users\blaze\Hello-Adventurer\bin\Debug\net10.0\Hello Adventure.exe
+C:\Users\blaze\Hello-Adventurer\bin\Debug\net10.0\Hello Adventure.deps.json
+C:\Users\blaze\Hello-Adventurer\bin\Debug\net10.0\Hello Adventure.runtimeconfig.json
+C:\Users\blaze\Hello-Adventurer\bin\Debug\net10.0\Hello Adventure.dll
+C:\Users\blaze\Hello-Adventurer\bin\Debug\net10.0\Hello Adventure.pdb
+C:\Users\blaze\Hello-Adventurer\obj\Debug\net10.0\Hello Adventure.genruntimeconfig.cache
+C:\Users\blaze\Hello-Adventurer\obj\Debug\net10.0\ref\Hello Adventure.dll
